@@ -1,0 +1,16 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+@media screen {
+    body {
+        max-width: 720px;
+    }
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
