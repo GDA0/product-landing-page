@@ -1,0 +1,11 @@
+section#home {
+  height: 80vh;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler:focus {
+  box-shadow: unset;
+}
