@@ -30,3 +30,11 @@ button:active {
 .navbar-toggler:focus {
 	box-shadow: unset;
 }
+
+footer a {
+	text-decoration: none;
+}
+
+footer a:hover {
+	text-decoration: underline;
+}
