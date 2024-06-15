@@ -2,6 +2,14 @@ section#home {
   height: 80vh;
 }
 
+button.btn {
+  transition: transform 0.3s ease-in-out;
+}
+
+button:hover {
+  transform: translateX(8px);
+}
+
 .navbar-toggler {
   border: none;
 }
